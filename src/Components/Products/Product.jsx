@@ -1,11 +1,13 @@
 import React from "react";
 
-const Product = ({ title, paragraph, buttonData, imgData }) => {
+const Product = ({ titleData, paragraph, buttonData, imgData }) => {
   return (
     <div className="card-container">
       <div className="card-wrapper">
         <div className="card-upper">
-          <h2>{title}</h2>
+          <h2>
+            <a href={titleData.titleLink}>{titleData.title}</a>
+          </h2>
           <p>{paragraph}</p>
           {buttonData.map((data, index) => {
             return (

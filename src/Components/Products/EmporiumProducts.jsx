@@ -13,7 +13,7 @@ const EmporiumProducts = () => {
             return (
               <Product
                 key={index}
-                title={product.title}
+                titleData={product.titleData}
                 paragraph={product.paragraph}
                 buttonData={product.ctaLinks}
                 imgData={product.imgData}

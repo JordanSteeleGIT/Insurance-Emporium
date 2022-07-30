@@ -23,8 +23,9 @@
   padding: 0 22px;
 }
 
-.card-upper h2 {
+.card-upper h2 a {
   font-size: 1.5rem;
+  text-decoration: none;
 }
 
 .card-upper p {
@@ -59,7 +60,6 @@
 }
 .button-section div a {
   font-size: 0.875rem;
-  color: #000000;
 }
 
 .card-lower {
