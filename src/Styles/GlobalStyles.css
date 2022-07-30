@@ -32,6 +32,16 @@ h1 {
   margin-bottom: 40px;
   padding: 0px 16px;
 }
-a {
-  color: #000000;
+
+@media (min-width: 909px) {
+  h1 {
+    font-size: 2rem;
+  }
+}
+
+a,
+a:hover,
+a:visited,
+a:active {
+  color: inherit;
 }
