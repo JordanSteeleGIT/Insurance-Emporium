@@ -24,7 +24,7 @@ const Product = ({ title, paragraph, buttonData, imgData }) => {
           })}
         </div>
         <div className="card-lower">
-          <img src=""></img>
+          <img src={`Images/${imgData.imgURL}`} alt={imgData.imgAlt} />
         </div>
       </div>
     </div>
