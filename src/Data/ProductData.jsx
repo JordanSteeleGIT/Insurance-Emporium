@@ -1,6 +1,9 @@
 export const CARD_DATA = [
   {
-    title: "Pet Insurance",
+    titleData: {
+      title: "Pet Insurance",
+      titleLink: "https://www.theinsuranceemporium.co.uk/products/pet",
+    },
     paragraph:
       "Pets are much-loved members of the family who bring a lot of magic into our lives. Whether your cat or dog is young or old, we insure them from 5 weeks to any age at The Insurance Emporium!",
     imgData: {
@@ -25,7 +28,10 @@ export const CARD_DATA = [
     ],
   },
   {
-    title: "Equine Insurance",
+    titleData: {
+      title: "Equine Insurance",
+      titleLink: "https://www.theinsuranceemporium.co.uk/products/equine",
+    },
     paragraph:
       "Insure your horse from 31 days to any age, or choose rider only.",
     imgData: {
@@ -57,7 +63,10 @@ export const CARD_DATA = [
     ],
   },
   {
-    title: "Caravan Insurance",
+    titleData: {
+      title: "Caravan Insurance",
+      titleLink: "https://www.theinsuranceemporium.co.uk/products/caravan",
+    },
     paragraph:
       "Whether you tow a caravan or trailer tent, or stay in a static, you can pitch up with one of our policy types then tweak it with a range of Optional Benefits to make it all yours!",
     imgData: {
@@ -83,7 +92,10 @@ export const CARD_DATA = [
     ],
   },
   {
-    title: "Wedding Insurance",
+    titleData: {
+      title: "Wedding Insurance",
+      titleLink: "https://www.theinsuranceemporium.co.uk/products/wedding",
+    },
     paragraph:
       "Getting married at home or away? Whatever you’re planning for your big day, why not waltz down the aisle knowing your day is protected?",
     imgData: {
@@ -106,7 +118,10 @@ export const CARD_DATA = [
     ],
   },
   {
-    title: "Camera Insurance",
+    titleData: {
+      title: "Camera Insurance",
+      titleLink: "https://www.theinsuranceemporium.co.uk/products/camera",
+    },
     paragraph:
       "Whether you’re a photographer or videographer, professional or enthusiast, we offer tweakable insurance for cameras, telescopes and many more bits of related equipment.",
     imgData: {
@@ -131,7 +146,10 @@ export const CARD_DATA = [
     ],
   },
   {
-    title: "Cycle Insurance",
+    titleData: {
+      title: "Cycle Insurance",
+      titleLink: "https://www.theinsuranceemporium.co.uk/products/cycle",
+    },
     paragraph:
       "Your bike can take you on many magical adventures! Our Pick ‘N’ Mix bicycle insurance can be tailored to suit all sorts of riders, whether you race on roads or simply cycle to work. Having cycle insurance could give you peace of mind and help keep your wheels turning. Find out more to put the brakes on some of the worries you might have.",
     imgData: {
@@ -149,7 +167,10 @@ export const CARD_DATA = [
     ],
   },
   {
-    title: "Fishing Insurance",
+    titleData: {
+      title: "Fishing Insurance",
+      titleLink: "https://www.theinsuranceemporium.co.uk/products/fishing",
+    },
     paragraph:
       "Packing up your rod and heading for an angling adventure? Making sure that you have some Fishing Insurance could be vital in helping you protect your gear if something goes awry. Choose from one of our three fully Tweakable policies, with a choice of Optional Benefits to suit your needs. Don’t get caught out, find more ‘reely’ useful information!",
     imgData: {
@@ -167,7 +188,10 @@ export const CARD_DATA = [
     ],
   },
   {
-    title: "Golf Insurance",
+    titleData: {
+      title: "Golf Insurance",
+      titleLink: "https://www.theinsuranceemporium.co.uk/products/golf",
+    },
     paragraph:
       "No matter what your handicap level is, whether you’ve scored a hole-in-one and need to buy a round or your equipment has been accidentally damaged, our Golf Insurance might help to protect you! Our different levels of Tweakable golf equipment insurance could suit a variety of budgets. Click the buttons below to get a quote or find out more!",
     imgData: {
