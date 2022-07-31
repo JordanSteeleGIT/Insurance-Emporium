@@ -71,3 +71,25 @@
   display: block;
   margin: auto;
 }
+
+@media (max-width: 270px) {
+  .card-container {
+    height: auto;
+  }
+  .card-upper {
+    height: auto;
+  }
+  .card-lower {
+    height: 70px;
+  }
+  .card-lower img {
+    max-height: 100%;
+  }
+  .button-section > div {
+    display: flex;
+    flex-direction: column;
+  }
+  .button-section div button {
+    margin-bottom: 8px;
+  }
+}
