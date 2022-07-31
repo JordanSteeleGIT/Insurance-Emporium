@@ -85,7 +85,7 @@
   .card-lower img {
     max-height: 100%;
   }
-  .button-section > div {
+  .button-section div {
     display: flex;
     flex-direction: column;
   }

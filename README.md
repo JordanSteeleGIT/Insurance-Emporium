@@ -8,9 +8,5 @@
 
 3. **Given more time what would you further improve?**<br>
    Given more time I would look into reducing the height of each card. Currently, the button section is taking up to much space. I have designed a second version of the card that has a single "Learn more" button that would take the user to their respective insurance page (see image below). For example, the "Learn more" pet insurance link would take them to "https://www.theinsuranceemporium.co.uk/products/pet". This page includes all the call to action buttons taken from the card on the homepage. This change would take some research to see how removing the "Get quote" affects the user flow.
-<<<<<<< HEAD
 
-=======
-   
->>>>>>> 955e50cdf224de3dc475722f0303b63149cb614e
 ![Second version of the card](https://i.imgur.com/O2ZtDlx.png)
