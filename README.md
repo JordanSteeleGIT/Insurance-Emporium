@@ -1,6 +1,6 @@
 1. **What is wrong with the component you chose?**<br>
    There are two main issues that I identified with the cards on the products grid.<br>
-   1: The text on the current cards score a 2.88 for contrast due to the size of the text and the font color on the light blue background.<br>
+   1: The text on the current cards score a 2.88 for contrast due to the white text on the light blue background. Due to the text size on the card being small it fails to pass the WCAG standard for contrast. <br>
    2: The important part of the card is hidden from the user by a hover state
 
 2. **How will you improve it?**<br>
